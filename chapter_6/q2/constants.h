@@ -5,4 +5,4 @@ namespace constants {
     inline constexpr int max_class_size{30};
 }
 
-#endif CONSTANTS_H
+#endif
